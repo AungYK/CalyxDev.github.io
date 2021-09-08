@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://calyxdev.github.io/sitemap.xml
